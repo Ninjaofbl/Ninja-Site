@@ -1,2 +1,2 @@
-# Ninja-s-Site
+# Ninjas-Site
 For my website
