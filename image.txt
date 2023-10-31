@@ -1,0 +1,72 @@
+air pods 225px x 225px
+
+Apple 1 277 x 182
+
+Apple 2 274 x 184
+
+Apple Watch 225 x 225
+
+iMac 259 x 194
+
+iPhone 4 259 x 194
+
+mackbook  259 x 194
+
+macintosh 275 x 183
+
+This is for NExT page
+NExT 203 x 248
+
+This is for Pixars page
+Pixar 318 x 159
+
+<figure>
+    <img src="images/airpods.jfif" alt="Air Pods" width="225" height="225" loading="lazy">
+    <figcaption>Air Pods</figcaption>
+</figure>
+
+<figure>
+    <img src="images/apple1.jfif" alt="Apple Computer" width="277" height="182" loading="lazy">
+    <figcaption>Apple Computer</figcaption>
+</figure>
+
+<figure>
+    <img src="images/apple2.jfif" alt="Apple Computer 2" width="274" height="184" loading="lazy">
+    <figcaption>Apple Computer</figcaption>
+</figure>
+
+<figure>
+    <img src="images/apple-watch.jfif" alt="Apple Watch" width="225" height="225" loading="lazy">
+    <figcaption>Apple Watch</figcaption>
+</figure>
+
+<figure>
+    <img src="images/imac.jfif" alt="iMac" width="259" height="194" loading="lazy">
+    <figcaption>iMac</figcaption>
+</figure>
+
+<figure>
+    <img src="images/iphone-4.jfif" alt="iPhone 4" width="259" height="194" loading="lazy">
+    <figcaption>iPhone 4</figcaption>
+</figure>
+
+<figure>
+    <img src="images/mackbook.jfif" alt="MacBook" width="259" height="194" loading="lazy">
+    <figcaption>MacBook</figcaption>
+</figure>
+
+<figure>
+    <img src="images/macintosh.jfif" alt="Macintosh" width="275" height="183" loading="lazy">
+    <figcaption>Macintosh</figcaption>
+</figure>
+
+
+<figure>
+    <img src="images/next.jfif" alt="NExT" width="203" height="248" loading="lazy">
+    <figcaption>MacBook</figcaption>
+</figure>
+
+<figure>
+    <img src="images/macintosh.jfif" alt="Macintosh" width="275" height="183" loading="lazy">
+    <figcaption>Macintosh</figcaption>
+</figure>
